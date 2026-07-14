@@ -606,7 +606,7 @@ window.addEventListener("load", () => {
                 );
 
                 // глубина
-                const z = gsap.utils.interpolate(1200, -6200, local);
+                const z = gsap.utils.interpolate(1200, -4200, local);
                 const scale = gsap.utils.interpolate(1.6, 0.3, local);
 
                 // мягкий вход/выход
