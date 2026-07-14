@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Ekran-Bold';
+	src: url('./fonts/ekran-bold.eot');
+	/* IE 9 Compatibility Mode */
+	src: url('./fonts/ekran-bold.eot?#iefix') format('embedded-opentype'),
+		/* IE < 9 */
+		url('./fonts/ekran-bold.woff2') format('woff2'),
+		/* Super Modern Browsers */
+		url('./fonts/ekran-bold.woff') format('woff'),
+		/* Firefox >= 3.6, any other modern browser */
+		url('./fonts/ekran-bold.ttf') format('truetype'),
+		/* Safari, Android, iOS */
+		url('./fonts/ekran-bold.svg#ekran-bold') format('svg');
+	/* Chrome < 4, Legacy iOS */
+}
